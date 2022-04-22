@@ -1,0 +1,4 @@
+﻿  pr_c_mysql.cpp
+C:\Users\Carlos Alfonso\Desktop\pr_c-_myql_poo-main\pr_c_mysql\pr_c_mysql.cpp(75,6): error C2039: "eliminar": no es un miembro de "proveedores"
+C:\Users\Carlos Alfonso\Desktop\pr_c-_myql_poo-main\pr_c_mysql\proveedores.h(9): message : vea la declaración de 'proveedores'
+  proveedores.cpp
